@@ -1,0 +1,3 @@
+xd123,xd123,xdaskix,0,00
+adam123,pass123,adasiek,1023,10,01
+dama123,haslo123,damusia,194,50,00
